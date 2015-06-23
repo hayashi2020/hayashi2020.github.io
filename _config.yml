@@ -1,5 +1,5 @@
-name: Twister
-description: a powerful jekyll theme
+name: Dada, go! go!
+description: space for thinking, writing and communicating
 url: #place url
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
@@ -11,14 +11,7 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
-instagram: "#"
-twitter: "#"
-facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+facebook: "Qipeng Zhang"
 
 encoding: utf-8
 defaults:
