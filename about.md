@@ -9,8 +9,6 @@ title: "About"
 * 
 * 
 
-## 
-
 <p class="contact">
  <a href="https://github.com/qipengzhang" title="Github"><img src="http://www.github.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
 </p>

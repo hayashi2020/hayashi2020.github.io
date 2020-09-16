@@ -105,10 +105,10 @@ table td{
 }
 
 
-#index a:link {color: #12C}		/* 未访问的链接 */
-#index a:visited {color: #609}	/* 已访问的链接 */
-#index a:hover {color: #336;text-decoration: underline;}	/* 鼠标移动到链接上 */
-#index a:active {color: #dd4b39}	/* 选定的链接 */
+#index a:link {color: #12C}
+#index a:visited {color: #609}
+#index a:hover {color: #336;text-decoration: underline;}
+#index a:active {color: #dd4b39}
 
 /* navbar */
 nav{
@@ -471,8 +471,6 @@ blockquote:last-child {
 }
 /**
  * demo
- * 瀑布流
- * 使用多栏布局
  */
 #fall{
 	font-size: 0;
@@ -547,13 +545,12 @@ blockquote:last-child {
 	padding: 5px 10px 10px 10px;
 	text-indent: 2em;
 }
-#fall a:link {color: #7676AC}		/* 未访问的链接 */
-#fall a:visited {color: #715584}	/* 已访问的链接 */
-#fall a:hover {color: #5989AD;text-decoration: none;}	/* 鼠标移动到链接上 */
-#fall a:active {color: #91C3CF}	/* 选定的链接 */
+#fall a:link {color: #7676AC}	
+#fall a:visited {color: #715584}
+#fall a:hover {color: #5989AD;text-decoration: none;}
+#fall a:active {color: #91C3CF}
 
 /**
- * 文章目录相关
  */
 @media screen and (min-width: 768px){
 	#markdown-toc {
@@ -561,10 +558,10 @@ blockquote:last-child {
 	}
 }
 
-#content a:link {color: #666}		/* 未访问的链接 */
-#content a:visited {color: #666}	/* 已访问的链接 */
-#content a:hover {color: #336;text-decoration: none;}	/* 鼠标移动到链接上 */
-#content a:active {color: #99b}	/* 选定的链接 */
+#content a:link {color: #666}  
+#content a:visited {color: #666}
+#content a:hover {color: #336;text-decoration: none;}
+#content a:active {color: #99b}	
 
 #content{
 	max-width: 292px;
