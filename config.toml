@@ -1,0 +1,9 @@
+baseURL = "http://hayashi2020.github.io"
+languageCode = "ja"
+title = "Hayashi's Site"
+contentDir = "post"
+disableKinds = ["RSS", "sitemap"]
+theme = "ananke"
+
+[taxonomies]
+tag = "tags"
